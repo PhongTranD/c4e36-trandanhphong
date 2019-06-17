@@ -20,10 +20,12 @@ for (let x = 1; x <= 100; x+=5) {
     console.log(x);
 }
 
-for (let z = 100; z > 0; z--) {
-    console.log(z);
+for (let x = 100; x > 0; x--) {
+    console.log(x);
 }
 
-for (let a = 100; a > 0; a-=3) {
-    console.log(a);
+for (let x = 100; x > 0; x-=3) {
+    console.log(x);
 }
+
+// test
